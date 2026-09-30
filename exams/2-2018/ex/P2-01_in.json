@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-01-0.png"
+   "exams/2-2018/crops/2-01-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-02-0.png"
+   "exams/2-2018/crops/2-02-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-03-0.png"
+   "exams/2-2018/crops/2-03-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-04-0.png"
+   "exams/2-2018/crops/2-04-0.png"
   ]
  },
  {
@@ -81,7 +81,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-05-0.png"
+   "exams/2-2018/crops/2-05-0.png"
   ]
  },
  {
@@ -98,7 +98,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-06-0.png"
+   "exams/2-2018/crops/2-06-0.png"
   ]
  },
  {
@@ -115,7 +115,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-07-0.png"
+   "exams/2-2018/crops/2-07-0.png"
   ]
  },
  {
@@ -132,7 +132,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-08-0.png"
+   "exams/2-2018/crops/2-08-0.png"
   ]
  },
  {
@@ -149,7 +149,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-09-0.png"
+   "exams/2-2018/crops/2-09-0.png"
   ]
  },
  {
@@ -166,7 +166,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-10-0.png"
+   "exams/2-2018/crops/2-10-0.png"
   ]
  },
  {
@@ -183,7 +183,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-11-0.png"
+   "exams/2-2018/crops/2-11-0.png"
   ]
  },
  {
@@ -200,7 +200,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-12-0.png"
+   "exams/2-2018/crops/2-12-0.png"
   ]
  },
  {
@@ -217,7 +217,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-13-0.png"
+   "exams/2-2018/crops/2-13-0.png"
   ]
  },
  {
@@ -234,7 +234,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-14-0.png"
+   "exams/2-2018/crops/2-14-0.png"
   ],
   "hint": "2025.1.31. 시행 부동산등기법 제7조의2(관련 사건의 관할에 관한 특례) 신설로 관할이 다른 부동산이라도 일정한 관련 사건은 한 등기소에서 처리할 수 있게 되었으니, ⑤는 원칙 규정으로만 읽을 것."
  },
@@ -252,7 +252,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-15-0.png"
+   "exams/2-2018/crops/2-15-0.png"
   ]
  },
  {
@@ -269,7 +269,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-16-0.png"
+   "exams/2-2018/crops/2-16-0.png"
   ]
  },
  {
@@ -286,8 +286,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-17-0.png",
-   "/home/claude/hx/exams/2-2018/crops/2-17-1.png"
+   "exams/2-2018/crops/2-17-0.png",
+   "exams/2-2018/crops/2-17-1.png"
   ]
  },
  {
@@ -304,7 +304,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-18-0.png"
+   "exams/2-2018/crops/2-18-0.png"
   ]
  },
  {
@@ -321,7 +321,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-19-0.png"
+   "exams/2-2018/crops/2-19-0.png"
   ]
  },
  {
@@ -338,7 +338,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/2-20-0.png"
+   "exams/2-2018/crops/2-20-0.png"
   ]
  }
 ]

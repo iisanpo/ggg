@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-21-0.png"
+   "exams/1-2018/crops/1-21-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-22-0.png"
+   "exams/1-2018/crops/1-22-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-23-0.png"
+   "exams/1-2018/crops/1-23-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-24-0.png"
+   "exams/1-2018/crops/1-24-0.png"
   ]
  },
  {
@@ -83,7 +83,7 @@
    "formula?"
   ],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-25-0.png"
+   "exams/1-2018/crops/1-25-0.png"
   ]
  },
  {
@@ -100,8 +100,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-26-0.png",
-   "/home/claude/hx/exams/1-2018/crops/1-26-1.png"
+   "exams/1-2018/crops/1-26-0.png",
+   "exams/1-2018/crops/1-26-1.png"
   ]
  },
  {
@@ -118,7 +118,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-27-0.png"
+   "exams/1-2018/crops/1-27-0.png"
   ]
  },
  {
@@ -135,7 +135,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-28-0.png"
+   "exams/1-2018/crops/1-28-0.png"
   ]
  },
  {
@@ -152,7 +152,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-29-0.png"
+   "exams/1-2018/crops/1-29-0.png"
   ]
  },
  {
@@ -169,7 +169,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-30-0.png"
+   "exams/1-2018/crops/1-30-0.png"
   ]
  },
  {
@@ -186,7 +186,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-31-0.png"
+   "exams/1-2018/crops/1-31-0.png"
   ]
  },
  {
@@ -203,7 +203,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-32-0.png"
+   "exams/1-2018/crops/1-32-0.png"
   ],
   "hint": "PFV 법인세 소득공제의 근거가 법인세법 제51조의2에서 조세특례제한법 제104조의31로 이관되었으나 정답은 동일하다."
  },
@@ -221,7 +221,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-33-0.png"
+   "exams/1-2018/crops/1-33-0.png"
   ]
  },
  {
@@ -238,7 +238,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-34-0.png"
+   "exams/1-2018/crops/1-34-0.png"
   ]
  },
  {
@@ -255,7 +255,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-35-0.png"
+   "exams/1-2018/crops/1-35-0.png"
   ]
  },
  {
@@ -272,7 +272,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-36-0.png"
+   "exams/1-2018/crops/1-36-0.png"
   ]
  },
  {
@@ -289,7 +289,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-37-0.png"
+   "exams/1-2018/crops/1-37-0.png"
   ]
  },
  {
@@ -306,7 +306,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-38-0.png"
+   "exams/1-2018/crops/1-38-0.png"
   ]
  },
  {
@@ -323,7 +323,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-39-0.png"
+   "exams/1-2018/crops/1-39-0.png"
   ]
  },
  {
@@ -340,8 +340,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/1-2018/crops/1-40-0.png",
-   "/home/claude/hx/exams/1-2018/crops/1-40-1.png"
+   "exams/1-2018/crops/1-40-0.png",
+   "exams/1-2018/crops/1-40-1.png"
   ]
  }
 ]

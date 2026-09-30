@@ -16,8 +16,8 @@
    "image"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-01-0.png",
-   "/home/claude/hx/exams/2-2014/crops/1-01-1.png"
+   "exams/2-2014/crops/1-01-0.png",
+   "exams/2-2014/crops/1-01-1.png"
   ],
   "hint": "2014.7 시행 개정으로 중개업자라는 용어가 개업공인중개사로 바뀌었으나 정의 내용과 정답은 같다."
  },
@@ -37,7 +37,7 @@
    "image"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-02-0.png"
+   "exams/2-2014/crops/1-02-0.png"
   ]
  },
  {
@@ -54,7 +54,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-03-0.png"
+   "exams/2-2014/crops/1-03-0.png"
   ]
  },
  {
@@ -71,7 +71,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-04-0.png"
+   "exams/2-2014/crops/1-04-0.png"
   ]
  },
  {
@@ -88,7 +88,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-05-0.png"
+   "exams/2-2014/crops/1-05-0.png"
   ],
   "hint": "2020.2 시행령 개정으로 법인 등록기준에 협동조합 기본법상 협동조합(사회적협동조합 제외)이 추가되어 1번도 현행법상 불완전한 서술이 되므로 1번을 보완하였다."
  },
@@ -106,7 +106,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-06-0.png"
+   "exams/2-2014/crops/1-06-0.png"
   ]
  },
  {
@@ -123,7 +123,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-07-0.png"
+   "exams/2-2014/crops/1-07-0.png"
   ]
  },
  {
@@ -140,7 +140,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-08-0.png"
+   "exams/2-2014/crops/1-08-0.png"
   ]
  },
  {
@@ -157,7 +157,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-09-0.png"
+   "exams/2-2014/crops/1-09-0.png"
   ],
   "hint": "2023.10 신설된 중개보조원의 신분 고지의무를 위반하면 중개보조원 본인에게 500만원 이하 과태료가 부과되지만 업무정지처분 규정은 여전히 없어 정답은 유지된다."
  },
@@ -175,7 +175,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-10-0.png"
+   "exams/2-2014/crops/1-10-0.png"
   ]
  },
  {
@@ -192,7 +192,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-11-0.png"
+   "exams/2-2014/crops/1-11-0.png"
   ]
  },
  {
@@ -209,7 +209,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-12-0.png"
+   "exams/2-2014/crops/1-12-0.png"
   ]
  },
  {
@@ -226,7 +226,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-13-0.png"
+   "exams/2-2014/crops/1-13-0.png"
   ]
  },
  {
@@ -243,7 +243,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-14-0.png"
+   "exams/2-2014/crops/1-14-0.png"
   ]
  },
  {
@@ -260,7 +260,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-15-0.png"
+   "exams/2-2014/crops/1-15-0.png"
   ]
  },
  {
@@ -277,8 +277,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/1-16-0.png",
-   "/home/claude/hx/exams/2-2014/crops/1-16-1.png"
+   "exams/2-2014/crops/1-16-0.png",
+   "exams/2-2014/crops/1-16-1.png"
   ],
   "hint": "외국인토지법은 2016.1.19. 폐지되어 부동산거래신고법으로 통합되었고 거래신고 기한도 2020.2 개정으로 30일이 되었으나, 부동산거래신고를 하면 외국인 취득신고를 하지 않는다는 결론은 같아 정답은 그대로이다."
  }

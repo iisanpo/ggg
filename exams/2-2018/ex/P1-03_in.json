@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-33-0.png"
+   "exams/2-2018/crops/1-33-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-34-0.png"
+   "exams/2-2018/crops/1-34-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-35-0.png"
+   "exams/2-2018/crops/1-35-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-36-0.png"
+   "exams/2-2018/crops/1-36-0.png"
   ]
  },
  {
@@ -81,7 +81,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-37-0.png"
+   "exams/2-2018/crops/1-37-0.png"
   ]
  },
  {
@@ -98,7 +98,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-38-0.png"
+   "exams/2-2018/crops/1-38-0.png"
   ]
  },
  {
@@ -115,7 +115,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-39-0.png"
+   "exams/2-2018/crops/1-39-0.png"
   ]
  },
  {
@@ -132,8 +132,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-40-0.png",
-   "/home/claude/hx/exams/2-2018/crops/1-40-1.png"
+   "exams/2-2018/crops/1-40-0.png",
+   "exams/2-2018/crops/1-40-1.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-41-0.png"
+   "exams/2-2018/crops/1-41-0.png"
   ]
  },
  {
@@ -167,7 +167,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-42-0.png"
+   "exams/2-2018/crops/1-42-0.png"
   ]
  },
  {
@@ -184,7 +184,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-43-0.png"
+   "exams/2-2018/crops/1-43-0.png"
   ]
  },
  {
@@ -201,7 +201,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-44-0.png"
+   "exams/2-2018/crops/1-44-0.png"
   ],
   "hint": "이후 시행령 개정으로 근린재생형 활성화계획 수립지역도 지정대상에 추가되었고, 2024.8.7 시행 개정으로 입지규제최소구역 제도 자체가 폐지되어 공간혁신구역 3종(도시혁신구역·복합용도구역·도시군계획시설입체복합구역)으로 대체되었으므로 현행법에서는 이 문항이 성립하지 않는다."
  },
@@ -219,7 +219,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-45-0.png"
+   "exams/2-2018/crops/1-45-0.png"
   ]
  },
  {
@@ -236,7 +236,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-46-0.png"
+   "exams/2-2018/crops/1-46-0.png"
   ],
   "hint": "2021.1.12 시행 개정으로 '성장관리방안'이 '성장관리계획'으로, 지정 절차가 '성장관리계획구역 지정'으로 바뀌었으나(법 제75조의2·제75조의3) 대상 용도지역은 동일해 정답은 그대로다."
  },
@@ -254,7 +254,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-47-0.png"
+   "exams/2-2018/crops/1-47-0.png"
   ]
  },
  {
@@ -271,7 +271,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-48-0.png"
+   "exams/2-2018/crops/1-48-0.png"
   ]
  }
 ]

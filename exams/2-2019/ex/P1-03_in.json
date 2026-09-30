@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-33-0.png"
+   "exams/2-2019/crops/1-33-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-34-0.png"
+   "exams/2-2019/crops/1-34-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-35-0.png"
+   "exams/2-2019/crops/1-35-0.png"
   ],
   "hint": "2021년 전원합의체 판결(대판 2021.4.29. 2017다228007)로 분묘기지권을 시효취득한 자도 토지소유자가 지료를 청구하면 그때부터 지료를 지급할 의무가 있어, 지문 4도 현행 판례상 틀린 설명이 되었다."
  },
@@ -65,7 +65,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-36-0.png"
+   "exams/2-2019/crops/1-36-0.png"
   ]
  },
  {
@@ -82,8 +82,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-37-0.png",
-   "/home/claude/hx/exams/2-2019/crops/1-37-1.png"
+   "exams/2-2019/crops/1-37-0.png",
+   "exams/2-2019/crops/1-37-1.png"
   ]
  },
  {
@@ -100,7 +100,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-38-0.png"
+   "exams/2-2019/crops/1-38-0.png"
   ]
  },
  {
@@ -117,7 +117,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-39-0.png"
+   "exams/2-2019/crops/1-39-0.png"
   ],
   "hint": "2021.6.1.부터 주택 임대차계약은 별도의 주택임대차 신고제(법 제6조의2) 대상이 되었으나, 택지개발촉진법에 따라 공급된 '토지'의 임대차는 지금도 신고대상이 아니어서 정답은 변하지 않는다."
  },
@@ -135,8 +135,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-40-0.png",
-   "/home/claude/hx/exams/2-2019/crops/1-40-1.png"
+   "exams/2-2019/crops/1-40-0.png",
+   "exams/2-2019/crops/1-40-1.png"
   ],
   "hint": "부동산 거래신고 기한이 2020.2.21.부터 계약체결일부터 30일로 단축되어 선지1의 '60일'은 현행 기준과도 맞지 않으나, 신고의무자를 거래당사자로 적은 점에서 이미 틀린 지문이라 정답은 그대로 5번이다."
  },
@@ -154,7 +154,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-41-0.png"
+   "exams/2-2019/crops/1-41-0.png"
   ]
  },
  {
@@ -171,7 +171,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-42-0.png"
+   "exams/2-2019/crops/1-42-0.png"
   ]
  },
  {
@@ -188,8 +188,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-43-0.png",
-   "/home/claude/hx/exams/2-2019/crops/1-43-1.png"
+   "exams/2-2019/crops/1-43-0.png",
+   "exams/2-2019/crops/1-43-1.png"
   ]
  },
  {
@@ -206,7 +206,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-44-0.png"
+   "exams/2-2019/crops/1-44-0.png"
   ],
   "hint": "입지규제최소구역(선지 5)은 2024년 2월 개정(2024.8 시행)으로 폐지되고 공간혁신구역 3종(도시혁신구역·복합용도구역·도시·군계획시설입체복합구역)으로 대체되었으나 정답에는 영향이 없다."
  },
@@ -224,7 +224,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-45-0.png"
+   "exams/2-2019/crops/1-45-0.png"
   ],
   "hint": "2021년 시행 개정으로 성장관리방안이 성장관리계획구역·성장관리계획으로 개편되었으나 주민과 지방의회의 의견을 듣도록 한 절차는 그대로여서 정답은 달라지지 않는다."
  },
@@ -242,7 +242,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-46-0.png"
+   "exams/2-2019/crops/1-46-0.png"
   ]
  },
  {
@@ -259,7 +259,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-47-0.png"
+   "exams/2-2019/crops/1-47-0.png"
   ]
  },
  {
@@ -276,7 +276,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-48-0.png"
+   "exams/2-2019/crops/1-48-0.png"
   ]
  }
 ]

@@ -6,7 +6,8 @@
 import sys, os, json, re
 
 exam, label, date = sys.argv[1], sys.argv[2], sys.argv[3]
-base = '/home/claude/hx/exams/%s' % exam
+ROOT = os.environ.get('HX_ROOT') or os.getcwd()
+base = os.path.join(ROOT, 'exams', exam)
 qfile = sys.argv[4] if len(sys.argv) > 4 else (base + '/q.json' if os.path.exists(base + '/q.json') else base + '/q_raw.json')
 Q = json.load(open(qfile, encoding='utf-8'))
 
@@ -22,7 +23,7 @@ json.dump(Q, open(base + '/q.json', 'w', encoding='utf-8'), ensure_ascii=False, 
 kind, year = exam.split('-')[0], int(exam.split('-')[1])
 hints = {}
 try:
-    QB = json.load(open('/home/claude/k36/qbank.json', encoding='utf-8'))
+    QB = json.load(open(os.path.join(ROOT, 'data', 'qbank.json'), encoding='utf-8'))
     for b in QB:
         if b.get('c') == int(kind) and b.get('y') == year and b.get('law'):
             hints[(b.get('s') or 1, b['n'])] = b['law']
@@ -38,7 +39,7 @@ def batches(Q):
     return B
 
 os.makedirs(base + '/ex', exist_ok=True)
-tmpl = open('/home/claude/hx/EXPLAIN%s.md' % kind, encoding='utf-8').read()
+tmpl = open(os.path.join(ROOT, 'specs', 'EXPLAIN%s.md' % kind), encoding='utf-8').read()
 out = []
 for bid, qs in batches(Q):
     if os.path.exists(base + '/ex/%s_1.json' % bid) and os.path.exists(base + '/ex/%s_2.json' % bid):

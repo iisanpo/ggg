@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-21-0.png"
+   "exams/2-2021/crops/2-21-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-22-0.png"
+   "exams/2-2021/crops/2-22-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-23-0.png"
+   "exams/2-2021/crops/2-23-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-24-0.png"
+   "exams/2-2021/crops/2-24-0.png"
   ]
  },
  {
@@ -81,8 +81,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-25-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-25-1.png"
+   "exams/2-2021/crops/2-25-0.png",
+   "exams/2-2021/crops/2-25-1.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-26-0.png"
+   "exams/2-2021/crops/2-26-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-27-0.png"
+   "exams/2-2021/crops/2-27-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-28-0.png"
+   "exams/2-2021/crops/2-28-0.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-29-0.png"
+   "exams/2-2021/crops/2-29-0.png"
   ],
   "hint": "2024년부터 주택 재산세는 세부담상한(110~130%) 대신 과세표준상한제가 적용되고 세부담상한은 토지·건축물 150%만 남아, 5번 지문은 현행법상 틀린 지문이 된다."
  },
@@ -168,7 +168,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-30-0.png"
+   "exams/2-2021/crops/2-30-0.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-31-0.png"
+   "exams/2-2021/crops/2-31-0.png"
   ]
  },
  {
@@ -202,8 +202,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-32-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-32-1.png"
+   "exams/2-2021/crops/2-32-0.png",
+   "exams/2-2021/crops/2-32-1.png"
   ]
  },
  {
@@ -220,7 +220,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-33-0.png"
+   "exams/2-2021/crops/2-33-0.png"
   ],
   "hint": "2023년부터 주택분 종부세 기본공제 6억→9억(1세대 1주택 12억), 공정시장가액비율 95%→60%로 변경되어 ③·⑤의 숫자를 현행으로 수정했습니다."
  },
@@ -238,7 +238,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-34-0.png"
+   "exams/2-2021/crops/2-34-0.png"
   ],
   "hint": "현재 1세대 1주택자 공제액은 12억원 단일 공제이고 고령자·장기보유 세액공제 합계 한도는 80%이지만, 4·5번은 그 전후 어느 기준으로도 틀린 지문이어서 정답은 같다."
  },
@@ -256,7 +256,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-35-0.png"
+   "exams/2-2021/crops/2-35-0.png"
   ]
  },
  {
@@ -275,7 +275,7 @@
    "table"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-36-0.png"
+   "exams/2-2021/crops/2-36-0.png"
   ]
  },
  {
@@ -292,7 +292,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-37-0.png"
+   "exams/2-2021/crops/2-37-0.png"
   ]
  },
  {
@@ -309,8 +309,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-38-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-38-1.png"
+   "exams/2-2021/crops/2-38-0.png",
+   "exams/2-2021/crops/2-38-1.png"
   ]
  },
  {
@@ -327,7 +327,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-39-0.png"
+   "exams/2-2021/crops/2-39-0.png"
   ]
  },
  {
@@ -344,7 +344,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-40-0.png"
+   "exams/2-2021/crops/2-40-0.png"
   ]
  }
 ]

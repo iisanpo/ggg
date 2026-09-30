@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-01-0.png"
+   "exams/2-2018/crops/1-01-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-02-0.png"
+   "exams/2-2018/crops/1-02-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-03-0.png"
+   "exams/2-2018/crops/1-03-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-04-0.png"
+   "exams/2-2018/crops/1-04-0.png"
   ]
  },
  {
@@ -81,7 +81,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-05-0.png"
+   "exams/2-2018/crops/1-05-0.png"
   ]
  },
  {
@@ -98,7 +98,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-06-0.png"
+   "exams/2-2018/crops/1-06-0.png"
   ],
   "hint": "자금조달계획서 제출 대상은 이후 확대되어 현재는 규제지역 내 주택은 금액과 무관하게, 비규제지역은 6억원 이상 주택 거래 시 제출하지만 이 문항의 정답에는 영향이 없다."
  },
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-07-0.png"
+   "exams/2-2018/crops/1-07-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-08-0.png"
+   "exams/2-2018/crops/1-08-0.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-09-0.png"
+   "exams/2-2018/crops/1-09-0.png"
   ]
  },
  {
@@ -167,8 +167,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-10-0.png",
-   "/home/claude/hx/exams/2-2018/crops/1-10-1.png"
+   "exams/2-2018/crops/1-10-0.png",
+   "exams/2-2018/crops/1-10-1.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-11-0.png"
+   "exams/2-2018/crops/1-11-0.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-12-0.png"
+   "exams/2-2018/crops/1-12-0.png"
   ]
  },
  {
@@ -219,7 +219,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-13-0.png"
+   "exams/2-2018/crops/1-13-0.png"
   ]
  },
  {
@@ -236,7 +236,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-14-0.png"
+   "exams/2-2018/crops/1-14-0.png"
   ]
  },
  {
@@ -253,7 +253,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-15-0.png"
+   "exams/2-2018/crops/1-15-0.png"
   ]
  },
  {
@@ -270,7 +270,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2018/crops/1-16-0.png"
+   "exams/2-2018/crops/1-16-0.png"
   ]
  }
 ]

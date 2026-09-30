@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-49-0.png"
+   "exams/2-2015/crops/1-49-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-50-0.png"
+   "exams/2-2015/crops/1-50-0.png"
   ],
   "hint": "2017년 개정으로 지적전산자료 이용은 승인제가 폐지되고 심사 후 제공하는 방식으로 바뀌어 ④의 '승인' 표현은 현행법과 다르나 정답에는 영향이 없음."
  },
@@ -48,7 +48,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-51-0.png"
+   "exams/2-2015/crops/1-51-0.png"
   ]
  },
  {
@@ -65,7 +65,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-52-0.png"
+   "exams/2-2015/crops/1-52-0.png"
   ]
  },
  {
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-53-0.png"
+   "exams/2-2015/crops/1-53-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-54-0.png"
+   "exams/2-2015/crops/1-54-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-55-0.png"
+   "exams/2-2015/crops/1-55-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-56-0.png"
+   "exams/2-2015/crops/1-56-0.png"
   ]
  },
  {
@@ -150,8 +150,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-57-0.png",
-   "/home/claude/hx/exams/2-2015/crops/1-57-1.png"
+   "exams/2-2015/crops/1-57-0.png",
+   "exams/2-2015/crops/1-57-1.png"
   ]
  },
  {
@@ -168,7 +168,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-58-0.png"
+   "exams/2-2015/crops/1-58-0.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-59-0.png"
+   "exams/2-2015/crops/1-59-0.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-60-0.png"
+   "exams/2-2015/crops/1-60-0.png"
   ]
  },
  {
@@ -219,7 +219,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-61-0.png"
+   "exams/2-2015/crops/1-61-0.png"
   ]
  },
  {
@@ -236,7 +236,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-62-0.png"
+   "exams/2-2015/crops/1-62-0.png"
   ]
  },
  {
@@ -253,7 +253,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-63-0.png"
+   "exams/2-2015/crops/1-63-0.png"
   ]
  },
  {
@@ -270,8 +270,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-64-0.png",
-   "/home/claude/hx/exams/2-2015/crops/1-64-1.png"
+   "exams/2-2015/crops/1-64-0.png",
+   "exams/2-2015/crops/1-64-1.png"
   ]
  }
 ]

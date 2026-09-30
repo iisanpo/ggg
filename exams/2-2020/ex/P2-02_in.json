@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-21-0.png"
+   "exams/2-2020/crops/2-21-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-22-0.png"
+   "exams/2-2020/crops/2-22-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-23-0.png"
+   "exams/2-2020/crops/2-23-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-24-0.png"
+   "exams/2-2020/crops/2-24-0.png"
   ]
  },
  {
@@ -81,7 +81,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-25-0.png"
+   "exams/2-2020/crops/2-25-0.png"
   ]
  },
  {
@@ -98,7 +98,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-26-0.png"
+   "exams/2-2020/crops/2-26-0.png"
   ],
   "hint": "2021년부터 신탁재산 재산세 납세의무자가 수탁자에서 위탁자로 바뀌었으나, 신탁재산 토지를 수탁자의 고유재산과 합산하지 않는다는 결론은 같다."
  },
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-27-0.png"
+   "exams/2-2020/crops/2-27-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-28-0.png"
+   "exams/2-2020/crops/2-28-0.png"
   ],
   "hint": "배우자 등 이월과세 적용기간이 2023년 증여분부터 5년에서 10년으로 늘었으나 정답은 같다."
  },
@@ -151,7 +151,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-29-0.png"
+   "exams/2-2020/crops/2-29-0.png"
   ]
  },
  {
@@ -168,7 +168,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-30-0.png"
+   "exams/2-2020/crops/2-30-0.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-31-0.png"
+   "exams/2-2020/crops/2-31-0.png"
   ],
   "hint": "2021년 지방세기본법 개정으로 가산금 제도가 폐지(납부지연가산세로 통합)되어 ⑤를 현행 정의로 수정했습니다."
  },
@@ -203,8 +203,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-32-0.png",
-   "/home/claude/hx/exams/2-2020/crops/2-32-1.png"
+   "exams/2-2020/crops/2-32-0.png",
+   "exams/2-2020/crops/2-32-1.png"
   ]
  },
  {
@@ -221,7 +221,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-33-0.png"
+   "exams/2-2020/crops/2-33-0.png"
   ],
   "hint": "2021년부터 지역자원시설세가 특정자원분·특정시설분·소방분으로 개편되어 오물처리시설·수리시설 등에 충당하는 부분과 토지 과세대상이 폐지되고 소방분(건축물·선박)만 남았으므로 ①·②는 현행법상 성립하지 않는다(문제 자체가 2020년 기준으로 출제됨)."
  },
@@ -239,7 +239,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-34-0.png"
+   "exams/2-2020/crops/2-34-0.png"
   ],
   "hint": "2021.12.8 이후 양도분부터 고가주택 기준이 실지거래가액 9억원 초과에서 12억원 초과로 바뀌어 3·4번 지문의 9억원은 현행 12억원이다."
  },
@@ -257,7 +257,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-35-0.png"
+   "exams/2-2020/crops/2-35-0.png"
   ]
  },
  {
@@ -274,7 +274,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-36-0.png"
+   "exams/2-2020/crops/2-36-0.png"
   ],
   "hint": "2023년 취득세 과세표준 개편으로 4번의 법인장부 입증 규정은 삭제되고 원시취득은 사실상취득가격(확인 불가 시 시가표준액)에 따르나, 어느 기준으로도 틀린 지문이어서 정답은 같다."
  },
@@ -292,7 +292,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-37-0.png"
+   "exams/2-2020/crops/2-37-0.png"
   ]
  },
  {
@@ -309,8 +309,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-38-0.png",
-   "/home/claude/hx/exams/2-2020/crops/2-38-1.png"
+   "exams/2-2020/crops/2-38-0.png",
+   "exams/2-2020/crops/2-38-1.png"
   ]
  },
  {
@@ -327,7 +327,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-39-0.png"
+   "exams/2-2020/crops/2-39-0.png"
   ]
  },
  {
@@ -344,7 +344,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2020/crops/2-40-0.png"
+   "exams/2-2020/crops/2-40-0.png"
   ]
  }
 ]

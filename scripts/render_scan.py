@@ -8,7 +8,7 @@ import pymupdf
 from PIL import Image, ImageOps
 
 exam, sess, pdf = sys.argv[1], int(sys.argv[2]), sys.argv[3]
-base = '/home/claude/hx/exams/%s/scan/s%d' % (exam, sess)
+base = os.path.join(os.environ.get('HX_ROOT') or os.getcwd(), 'exams', exam, 'scan', 's%d' % sess)
 for d in ('pages', 'cols', 'ocr'): os.makedirs(os.path.join(base, d), exist_ok=True)
 doc = pymupdf.open(pdf)
 

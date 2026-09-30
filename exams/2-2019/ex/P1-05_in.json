@@ -13,8 +13,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-65-0.png",
-   "/home/claude/hx/exams/2-2019/crops/1-65-1.png"
+   "exams/2-2019/crops/1-65-0.png",
+   "exams/2-2019/crops/1-65-1.png"
   ]
  },
  {
@@ -31,7 +31,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-66-0.png"
+   "exams/2-2019/crops/1-66-0.png"
   ]
  },
  {
@@ -48,7 +48,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-67-0.png"
+   "exams/2-2019/crops/1-67-0.png"
   ]
  },
  {
@@ -65,7 +65,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-68-0.png"
+   "exams/2-2019/crops/1-68-0.png"
   ]
  },
  {
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-69-0.png"
+   "exams/2-2019/crops/1-69-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-70-0.png"
+   "exams/2-2019/crops/1-70-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-71-0.png"
+   "exams/2-2019/crops/1-71-0.png"
   ],
   "hint": "2024년 「매장문화재 보호 및 조사에 관한 법률」이 「매장유산 보호 및 조사에 관한 법률」로 바뀌고 문화재청장이 국가유산청장으로 변경되었으나 연장사유와 정답은 동일하다."
  },
@@ -134,7 +134,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-72-0.png"
+   "exams/2-2019/crops/1-72-0.png"
   ]
  },
  {
@@ -151,7 +151,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-73-0.png"
+   "exams/2-2019/crops/1-73-0.png"
   ]
  },
  {
@@ -168,7 +168,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-74-0.png"
+   "exams/2-2019/crops/1-74-0.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-75-0.png"
+   "exams/2-2019/crops/1-75-0.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-76-0.png"
+   "exams/2-2019/crops/1-76-0.png"
   ]
  },
  {
@@ -219,7 +219,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-77-0.png"
+   "exams/2-2019/crops/1-77-0.png"
   ]
  },
  {
@@ -236,7 +236,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-78-0.png"
+   "exams/2-2019/crops/1-78-0.png"
   ]
  },
  {
@@ -253,7 +253,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-79-0.png"
+   "exams/2-2019/crops/1-79-0.png"
   ]
  },
  {
@@ -270,8 +270,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2019/crops/1-80-0.png",
-   "/home/claude/hx/exams/2-2019/crops/1-80-1.png"
+   "exams/2-2019/crops/1-80-0.png",
+   "exams/2-2019/crops/1-80-1.png"
   ]
  }
 ]

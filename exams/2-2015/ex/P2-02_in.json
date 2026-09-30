@@ -9,8 +9,8 @@
    "opt-split"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-101-0.png",
-   "/home/claude/hx/exams/2-2015/crops/2-101-1.png"
+   "exams/2-2015/crops/2-101-0.png",
+   "exams/2-2015/crops/2-101-1.png"
   ],
   "hint": "현행 제40조 제3항도 같은 6개 항목만 3분의 2 이상 찬성을 요구한다."
  },
@@ -28,7 +28,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-102-0.png"
+   "exams/2-2015/crops/2-102-0.png"
   ],
   "hint": "조문이 제89조~제91조로 이동했을 뿐 5년의 소멸시효와 기산점은 동일하다."
  },
@@ -46,7 +46,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-103-0.png"
+   "exams/2-2015/crops/2-103-0.png"
   ],
   "hint": "가로주택정비사업이 「빈집 및 소규모주택 정비에 관한 특례법」으로 이관되어 현행 도시정비법에서는 공공지원 정비사업의 경우에 추진위원회를 구성하지 않을 수 있으므로(제31조 제4항) 그에 맞게 4번을 고쳤다."
  },
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-104-0.png"
+   "exams/2-2015/crops/2-104-0.png"
   ],
   "hint": "현행 제26조 제1항 제8호도 국·공유지(토지주택공사등 소유 토지 포함) 면적 2분의 1 이상을 요구하여 정답은 같다."
  },
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-105-0.png"
+   "exams/2-2015/crops/2-105-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-106-0.png"
+   "exams/2-2015/crops/2-106-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-107-0.png"
+   "exams/2-2015/crops/2-107-0.png"
   ]
  },
  {
@@ -133,8 +133,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-108-0.png",
-   "/home/claude/hx/exams/2-2015/crops/2-108-1.png"
+   "exams/2-2015/crops/2-108-0.png",
+   "exams/2-2015/crops/2-108-1.png"
   ]
  },
  {
@@ -151,7 +151,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-109-0.png"
+   "exams/2-2015/crops/2-109-0.png"
   ]
  },
  {
@@ -168,7 +168,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-110-0.png"
+   "exams/2-2015/crops/2-110-0.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-111-0.png"
+   "exams/2-2015/crops/2-111-0.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-112-0.png"
+   "exams/2-2015/crops/2-112-0.png"
   ],
   "hint": "2024년 국가유산 체계 전환으로 해당 호가 '문화유산의 보존 및 활용에 관한 법률'에 따른 지정문화유산·임시지정문화유산 및 천연기념물 등으로 바뀌었으나 정답은 그대로다."
  },
@@ -220,7 +220,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-113-0.png"
+   "exams/2-2015/crops/2-113-0.png"
   ],
   "hint": "현행 건축법 시행령 제2조 제17호 나목은 '16층 이상인 건축물'도 다중이용 건축물로 규정하므로 16층 관광호텔인 3번도 해당되어 정답이 둘이 된다. 3번의 층수를 6층으로 최소 수정했다."
  },
@@ -238,7 +238,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-114-0.png"
+   "exams/2-2015/crops/2-114-0.png"
   ]
  },
  {
@@ -255,7 +255,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-115-0.png"
+   "exams/2-2015/crops/2-115-0.png"
   ],
   "hint": "2019년 이후 제2종 근린생활시설 중 다중생활시설의 호실 간, 노인복지주택 세대 간, 노인요양시설 호실 간 경계벽이 추가되었으나 판매시설은 여전히 대상이 아니어서 정답은 같다."
  },
@@ -273,8 +273,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-116-0.png",
-   "/home/claude/hx/exams/2-2015/crops/2-116-1.png"
+   "exams/2-2015/crops/2-116-0.png",
+   "exams/2-2015/crops/2-116-1.png"
   ],
   "hint": "미관지구는 2018.4.19 시행 국토계획법 개정으로 경관지구에 통합·폐지되었고 건축법 제54조 제1항의 미관지구 단서도 삭제되어, 원래 정답인 2번 지문이 현행법상 성립하지 않는다."
  },
@@ -292,7 +292,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-117-0.png"
+   "exams/2-2015/crops/2-117-0.png"
   ]
  },
  {
@@ -309,7 +309,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-118-0.png"
+   "exams/2-2015/crops/2-118-0.png"
   ]
  },
  {
@@ -326,7 +326,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-119-0.png"
+   "exams/2-2015/crops/2-119-0.png"
   ],
   "hint": "2021년 농지법 개정(2022.5.18 시행)으로 농지취득자격증명 심사가 강화되고 농지위원회 심의가 도입되었으나, 발급 면제 대상 목록은 그대로여서 정답은 같다."
  },
@@ -344,7 +344,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/2-120-0.png"
+   "exams/2-2015/crops/2-120-0.png"
   ],
   "hint": "2021년 개정(2022.5.18 시행)으로 농업진흥지역 안의 농지는 주말·체험영농 목적으로 취득할 수 없게 되었으나, 지문의 쟁점과 정답은 달라지지 않는다."
  }

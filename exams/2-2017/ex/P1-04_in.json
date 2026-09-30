@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-49-0.png"
+   "exams/2-2017/crops/1-49-0.png"
   ],
   "hint": "현행 시행령 제2조 제1항 제1호의 교통시설은 '도로·철도·항만·공항·주차장·자동차정류장·궤도·차량 검사 및 면허시설'로 정비되어 자동차 및 건설기계운전학원은 기반시설에서 삭제되었으므로, 현행법 기준으로는 ①도 틀린 연결이 되어 정답이 2개가 된다."
  },
@@ -31,7 +31,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-50-0.png"
+   "exams/2-2017/crops/1-50-0.png"
   ]
  },
  {
@@ -48,8 +48,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-51-0.png",
-   "/home/claude/hx/exams/2-2017/crops/1-51-1.png"
+   "exams/2-2017/crops/1-51-0.png",
+   "exams/2-2017/crops/1-51-1.png"
   ]
  },
  {
@@ -66,7 +66,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-52-0.png"
+   "exams/2-2017/crops/1-52-0.png"
   ]
  },
  {
@@ -83,7 +83,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-53-0.png"
+   "exams/2-2017/crops/1-53-0.png"
   ]
  },
  {
@@ -100,7 +100,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-54-0.png"
+   "exams/2-2017/crops/1-54-0.png"
   ]
  },
  {
@@ -117,7 +117,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-55-0.png"
+   "exams/2-2017/crops/1-55-0.png"
   ]
  },
  {
@@ -134,7 +134,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-56-0.png"
+   "exams/2-2017/crops/1-56-0.png"
   ]
  },
  {
@@ -151,7 +151,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-57-0.png"
+   "exams/2-2017/crops/1-57-0.png"
   ]
  },
  {
@@ -168,8 +168,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-58-0.png",
-   "/home/claude/hx/exams/2-2017/crops/1-58-1.png"
+   "exams/2-2017/crops/1-58-0.png",
+   "exams/2-2017/crops/1-58-1.png"
   ]
  },
  {
@@ -186,7 +186,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-59-0.png"
+   "exams/2-2017/crops/1-59-0.png"
   ],
   "hint": "현행법상 안전진단 실시 주체는 정비계획의 입안권자이고(제12조·제13조), 적정성 검토기관도 국토안전관리원·한국건설기술연구원으로 바뀌었으며 명칭도 '재건축진단'으로 개정되었으나, 보고 상대방이 시·도지사라는 정답 근거는 동일하다."
  },
@@ -204,7 +204,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-60-0.png"
+   "exams/2-2017/crops/1-60-0.png"
   ],
   "hint": "2018.2 시행 전부개정으로 주택재개발·도시환경정비사업은 재개발사업으로, 주택재건축사업은 재건축사업으로, 주거환경관리사업은 주거환경개선사업으로 통합되어 선지의 사업명칭이 현행법과 맞지 않는다."
  },
@@ -222,7 +222,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-61-0.png"
+   "exams/2-2017/crops/1-61-0.png"
   ],
   "hint": "현행 제79조로 조문이 이동했고 재건축 임대주택 관련 규정도 정비되었으나 4번의 내용은 유지된다."
  },
@@ -240,7 +240,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-62-0.png"
+   "exams/2-2017/crops/1-62-0.png"
   ]
  },
  {
@@ -257,7 +257,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-63-0.png"
+   "exams/2-2017/crops/1-63-0.png"
   ],
   "hint": "현행 제23조·제24조·제61조에 같은 내용이 유지되고 있다."
  },
@@ -275,7 +275,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-64-0.png"
+   "exams/2-2017/crops/1-64-0.png"
   ]
  }
 ]

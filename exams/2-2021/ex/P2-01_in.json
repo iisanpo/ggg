@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-01-0.png"
+   "exams/2-2021/crops/2-01-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-02-0.png"
+   "exams/2-2021/crops/2-02-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-03-0.png"
+   "exams/2-2021/crops/2-03-0.png"
   ]
  },
  {
@@ -64,8 +64,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-04-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-04-1.png"
+   "exams/2-2021/crops/2-04-0.png",
+   "exams/2-2021/crops/2-04-1.png"
   ]
  },
  {
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-05-0.png"
+   "exams/2-2021/crops/2-05-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-06-0.png"
+   "exams/2-2021/crops/2-06-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-07-0.png"
+   "exams/2-2021/crops/2-07-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-08-0.png"
+   "exams/2-2021/crops/2-08-0.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-09-0.png"
+   "exams/2-2021/crops/2-09-0.png"
   ]
  },
  {
@@ -167,7 +167,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-10-0.png"
+   "exams/2-2021/crops/2-10-0.png"
   ]
  },
  {
@@ -184,8 +184,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-11-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-11-1.png"
+   "exams/2-2021/crops/2-11-0.png",
+   "exams/2-2021/crops/2-11-1.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-12-0.png"
+   "exams/2-2021/crops/2-12-0.png"
   ]
  },
  {
@@ -219,7 +219,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-13-0.png"
+   "exams/2-2021/crops/2-13-0.png"
   ]
  },
  {
@@ -236,7 +236,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-14-0.png"
+   "exams/2-2021/crops/2-14-0.png"
   ]
  },
  {
@@ -253,7 +253,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-15-0.png"
+   "exams/2-2021/crops/2-15-0.png"
   ]
  },
  {
@@ -270,7 +270,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-16-0.png"
+   "exams/2-2021/crops/2-16-0.png"
   ]
  },
  {
@@ -287,7 +287,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-17-0.png"
+   "exams/2-2021/crops/2-17-0.png"
   ]
  },
  {
@@ -304,8 +304,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-18-0.png",
-   "/home/claude/hx/exams/2-2021/crops/2-18-1.png"
+   "exams/2-2021/crops/2-18-0.png",
+   "exams/2-2021/crops/2-18-1.png"
   ]
  },
  {
@@ -322,7 +322,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-19-0.png"
+   "exams/2-2021/crops/2-19-0.png"
   ]
  },
  {
@@ -339,7 +339,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2021/crops/2-20-0.png"
+   "exams/2-2021/crops/2-20-0.png"
   ]
  }
 ]

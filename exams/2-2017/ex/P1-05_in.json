@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-65-0.png"
+   "exams/2-2017/crops/1-65-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-66-0.png"
+   "exams/2-2017/crops/1-66-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-67-0.png"
+   "exams/2-2017/crops/1-67-0.png"
   ],
   "hint": "2022년 개정으로 원룸형 주택은 '소형 주택'으로 명칭이 바뀌고 주거전용면적 기준도 60㎡ 이하로 확대되었으나 300세대 미만 요건은 그대로여서 정답은 변함이 없다."
  },
@@ -65,7 +65,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-68-0.png"
+   "exams/2-2017/crops/1-68-0.png"
   ]
  },
  {
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-69-0.png"
+   "exams/2-2017/crops/1-69-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-70-0.png"
+   "exams/2-2017/crops/1-70-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-71-0.png"
+   "exams/2-2017/crops/1-71-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-72-0.png"
+   "exams/2-2017/crops/1-72-0.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-73-0.png"
+   "exams/2-2017/crops/1-73-0.png"
   ]
  },
  {
@@ -167,7 +167,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-74-0.png"
+   "exams/2-2017/crops/1-74-0.png"
   ]
  },
  {
@@ -184,7 +184,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-75-0.png"
+   "exams/2-2017/crops/1-75-0.png"
   ]
  },
  {
@@ -201,7 +201,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-76-0.png"
+   "exams/2-2017/crops/1-76-0.png"
   ]
  },
  {
@@ -218,7 +218,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-77-0.png"
+   "exams/2-2017/crops/1-77-0.png"
   ]
  },
  {
@@ -235,8 +235,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-78-0.png",
-   "/home/claude/hx/exams/2-2017/crops/1-78-1.png"
+   "exams/2-2017/crops/1-78-0.png",
+   "exams/2-2017/crops/1-78-1.png"
   ]
  },
  {
@@ -253,7 +253,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-79-0.png"
+   "exams/2-2017/crops/1-79-0.png"
   ],
   "hint": "2021년 개정으로 처분명령 미이행 이행강제금이 감정평가액과 개별공시지가 중 높은 가액의 100분의 25로 상향되어 ㄷ의 숫자가 20에서 25로 바뀌었다."
  },
@@ -273,8 +273,8 @@
    "image"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2017/crops/1-80-0.png",
-   "/home/claude/hx/exams/2-2017/crops/1-80-1.png"
+   "exams/2-2017/crops/1-80-0.png",
+   "exams/2-2017/crops/1-80-1.png"
   ]
  }
 ]

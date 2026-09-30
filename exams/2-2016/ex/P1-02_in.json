@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-17-0.png"
+   "exams/2-2016/crops/1-17-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-18-0.png"
+   "exams/2-2016/crops/1-18-0.png"
   ]
  },
  {
@@ -47,8 +47,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-19-0.png",
-   "/home/claude/hx/exams/2-2016/crops/1-19-1.png"
+   "exams/2-2016/crops/1-19-0.png",
+   "exams/2-2016/crops/1-19-1.png"
   ]
  },
  {
@@ -65,7 +65,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-20-0.png"
+   "exams/2-2016/crops/1-20-0.png"
   ]
  },
  {
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-21-0.png"
+   "exams/2-2016/crops/1-21-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-22-0.png"
+   "exams/2-2016/crops/1-22-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-23-0.png"
+   "exams/2-2016/crops/1-23-0.png"
   ]
  },
  {
@@ -133,7 +133,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-24-0.png"
+   "exams/2-2016/crops/1-24-0.png"
   ]
  },
  {
@@ -150,7 +150,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-25-0.png"
+   "exams/2-2016/crops/1-25-0.png"
   ]
  },
  {
@@ -167,8 +167,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-26-0.png",
-   "/home/claude/hx/exams/2-2016/crops/1-26-1.png"
+   "exams/2-2016/crops/1-26-0.png",
+   "exams/2-2016/crops/1-26-1.png"
   ]
  },
  {
@@ -185,7 +185,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-27-0.png"
+   "exams/2-2016/crops/1-27-0.png"
   ]
  },
  {
@@ -202,7 +202,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-28-0.png"
+   "exams/2-2016/crops/1-28-0.png"
   ],
   "hint": "거짓신고 과태료는 2017.1.20 개정으로 '취득세의 3배 이하'에서 '부동산등 취득가액의 100분의 10 이하'로 바뀌었고 보완요구 주체도 등록관청이 아닌 신고관청이지만, 정답은 그대로 5번이다."
  },
@@ -220,7 +220,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-29-0.png"
+   "exams/2-2016/crops/1-29-0.png"
   ]
  },
  {
@@ -237,7 +237,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-30-0.png"
+   "exams/2-2016/crops/1-30-0.png"
   ]
  },
  {
@@ -254,7 +254,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-31-0.png"
+   "exams/2-2016/crops/1-31-0.png"
   ],
   "hint": "계약갱신요구권 한도가 5년에서 10년으로(2018.10.16), 차임 증액상한이 9%에서 5%로(2018.1.26) 바뀌었지만 옳은 선지는 여전히 5번이다."
  },
@@ -272,7 +272,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2016/crops/1-32-0.png"
+   "exams/2-2016/crops/1-32-0.png"
   ]
  }
 ]

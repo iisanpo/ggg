@@ -14,7 +14,7 @@ HANGUL = re.compile(r'[가-힣]')
 CIRC = '①②③④⑤'
 
 def load_corpus():
-    p = '/home/claude/hx/corpus.txt'
+    p = os.path.join(os.environ.get('HX_ROOT') or os.getcwd(), 'data', 'corpus.txt')
     return open(p, encoding='utf-8').read() if os.path.exists(p) else ''
 
 _kiwi = None
@@ -315,7 +315,7 @@ if __name__ == '__main__':
     exam = sys.argv[1]; pdfs = sys.argv[2:]
     corpus = load_corpus()
     qs = parse(exam, pdfs, corpus)
-    base = '/home/claude/hx/exams/%s' % exam
+    base = os.path.join(os.environ.get('HX_ROOT') or os.getcwd(), 'exams', exam)
     os.makedirs(base, exist_ok=True)
     save_crops(qs, base + '/crops')
     json.dump(qs, open(base + '/q_raw.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

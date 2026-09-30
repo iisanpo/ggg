@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-101-0.png"
+   "exams/2-2014/crops/2-101-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-102-0.png"
+   "exams/2-2014/crops/2-102-0.png"
   ],
   "hint": "2018년 전부개정으로 '주택재개발사업'은 '재개발사업', 인가권자는 '시장ㆍ군수등'으로 용어가 바뀌었으나 각 선지의 결론은 동일하다."
  },
@@ -48,7 +48,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-103-0.png"
+   "exams/2-2014/crops/2-103-0.png"
   ],
   "hint": "2018년 전부개정으로 재건축사업은 정비구역에서 시행하도록 정리되어 구법의 '정비구역이 아닌 구역에서 시행하는 주택재건축사업' 규정이 삭제되었고, 그 결과 선지 2가 현행법상 옳은 지문이 되어 정답이 둘이 되므로 선지 2를 수정했다."
  },
@@ -66,7 +66,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-104-0.png"
+   "exams/2-2014/crops/2-104-0.png"
   ],
   "hint": "2018년 전부개정으로 주택재개발사업은 재개발사업, 임시수용시설은 임시거주시설로 용어가 바뀌었으나 정답은 동일하다."
  },
@@ -84,7 +84,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-105-0.png"
+   "exams/2-2014/crops/2-105-0.png"
   ]
  },
  {
@@ -101,7 +101,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-106-0.png"
+   "exams/2-2014/crops/2-106-0.png"
   ],
   "hint": "국민주택채권은 2015.7.1 시행 「주택도시기금법」으로 이관되어 더 이상 주택법령 사항이 아니지만, 부동산투자회사의 매입의무 면제는 현행 주택도시기금법 시행령 별표에도 그대로 남아 있어 정답은 달라지지 않는다."
  },
@@ -119,7 +119,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-107-0.png"
+   "exams/2-2014/crops/2-107-0.png"
   ]
  },
  {
@@ -136,7 +136,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-108-0.png"
+   "exams/2-2014/crops/2-108-0.png"
   ],
   "hint": "2023.4 개정으로 전매행위 제한기간이 수도권 최대 3년·비수도권 최대 1년 등으로 크게 단축되었으나, 2번은 여전히 틀린 지문이고 부기등기 의무는 그대로여서 정답은 4로 같다."
  },
@@ -150,7 +150,7 @@
    "opt-split"
   ],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-109-0.png"
+   "exams/2-2014/crops/2-109-0.png"
   ]
  },
  {
@@ -167,7 +167,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-110-0.png"
+   "exams/2-2014/crops/2-110-0.png"
   ]
  },
  {
@@ -184,7 +184,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-111-0.png"
+   "exams/2-2014/crops/2-111-0.png"
   ]
  },
  {
@@ -201,7 +201,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-112-0.png"
+   "exams/2-2014/crops/2-112-0.png"
   ]
  },
  {
@@ -218,7 +218,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-113-0.png"
+   "exams/2-2014/crops/2-113-0.png"
   ]
  },
  {
@@ -235,7 +235,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-114-0.png"
+   "exams/2-2014/crops/2-114-0.png"
   ]
  },
  {
@@ -252,7 +252,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-115-0.png"
+   "exams/2-2014/crops/2-115-0.png"
   ]
  },
  {
@@ -269,7 +269,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-116-0.png"
+   "exams/2-2014/crops/2-116-0.png"
   ]
  },
  {
@@ -286,8 +286,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-117-0.png",
-   "/home/claude/hx/exams/2-2014/crops/2-117-1.png"
+   "exams/2-2014/crops/2-117-0.png",
+   "exams/2-2014/crops/2-117-1.png"
   ]
  },
  {
@@ -304,7 +304,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-118-0.png"
+   "exams/2-2014/crops/2-118-0.png"
   ]
  },
  {
@@ -321,7 +321,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-119-0.png"
+   "exams/2-2014/crops/2-119-0.png"
   ]
  },
  {
@@ -338,7 +338,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2014/crops/2-120-0.png"
+   "exams/2-2014/crops/2-120-0.png"
   ]
  }
 ]

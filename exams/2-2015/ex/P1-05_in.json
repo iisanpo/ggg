@@ -13,7 +13,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-65-0.png"
+   "exams/2-2015/crops/1-65-0.png"
   ]
  },
  {
@@ -30,7 +30,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-66-0.png"
+   "exams/2-2015/crops/1-66-0.png"
   ]
  },
  {
@@ -47,7 +47,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-67-0.png"
+   "exams/2-2015/crops/1-67-0.png"
   ]
  },
  {
@@ -64,7 +64,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-68-0.png"
+   "exams/2-2015/crops/1-68-0.png"
   ],
   "hint": "지방세 가산금이 2021년 납부지연가산세로 통합·폐지되어 징수순위에서 가산금이 삭제되었고(현행 지방세징수법 제4조: 체납처분비→지방세→가산세), 원문 그대로는 옳은 선지가 없다."
  },
@@ -82,7 +82,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-69-0.png"
+   "exams/2-2015/crops/1-69-0.png"
   ]
  },
  {
@@ -99,7 +99,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-70-0.png"
+   "exams/2-2015/crops/1-70-0.png"
   ]
  },
  {
@@ -116,7 +116,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-71-0.png"
+   "exams/2-2015/crops/1-71-0.png"
   ]
  },
  {
@@ -133,8 +133,8 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-72-0.png",
-   "/home/claude/hx/exams/2-2015/crops/1-72-1.png"
+   "exams/2-2015/crops/1-72-0.png",
+   "exams/2-2015/crops/1-72-1.png"
   ]
  },
  {
@@ -151,7 +151,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-73-0.png"
+   "exams/2-2015/crops/1-73-0.png"
   ],
   "hint": "2019년부터 일반 부동산 장기보유특별공제는 연 2%씩 최대 30%(15년 이상)로 개정되어 12년 보유 시 공제율은 24%이다."
  },
@@ -169,7 +169,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-74-0.png"
+   "exams/2-2015/crops/1-74-0.png"
   ],
   "hint": "양도소득세 물납은 2016년 폐지되어 원문 ⑤도 틀린 선지가 되므로 분할납부 신청(예정신고기한까지)으로 고쳤다."
  },
@@ -187,7 +187,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-75-0.png"
+   "exams/2-2015/crops/1-75-0.png"
   ],
   "hint": "현행은 도시지역 중 수도권 주거·상업·공업지역이면 부수토지 배율이 3배이므로 소재지에 따라 결과가 달라질 수 있다."
  },
@@ -205,7 +205,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-76-0.png"
+   "exams/2-2015/crops/1-76-0.png"
   ]
  },
  {
@@ -222,7 +222,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-77-0.png"
+   "exams/2-2015/crops/1-77-0.png"
   ],
   "hint": "2024년부터 주택 재산세에는 과세표준상한제가 도입되어 과세표준상한액을 초과하면 그 상한액을 과세표준으로 한다."
  },
@@ -240,7 +240,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-78-0.png"
+   "exams/2-2015/crops/1-78-0.png"
   ]
  },
  {
@@ -257,7 +257,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-79-0.png"
+   "exams/2-2015/crops/1-79-0.png"
   ],
   "hint": "주택분 공제액이 6억원에서 9억원(1세대1주택 12억원)으로 상향되었으나 ㄴ의 결론은 같다."
  },
@@ -275,7 +275,7 @@
   ],
   "flags": [],
   "crops": [
-   "/home/claude/hx/exams/2-2015/crops/1-80-0.png"
+   "exams/2-2015/crops/1-80-0.png"
   ],
   "hint": "2021.1.1.부터 신탁재산의 재산세 납세의무자가 수탁자에서 위탁자로 변경되어 ㄷ은 더 이상 '납세의무자가 아닌 자'가 아니다."
  }

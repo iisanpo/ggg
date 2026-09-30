@@ -7,7 +7,8 @@
 import sys, os, json, glob, re, difflib
 
 exam = sys.argv[1]
-base = '/home/claude/hx/exams/%s' % exam
+ROOT = os.environ.get('HX_ROOT') or os.getcwd()
+base = os.path.join(ROOT, 'exams', exam)
 Q = json.load(open(base + '/q.json', encoding='utf-8'))
 R = {}
 for f in sorted(glob.glob(base + '/ex/*_[12].json')):
